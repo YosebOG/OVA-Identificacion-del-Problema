@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<theme>
+    <name>UNAD-ECAPMA</name>
+    <version>1.4</version>
+    <compatibility>2.1-r947ab9aab1c0798e1d6007cc4dc3725ffa0c45ad</compatibility>
+    <author>UNAD - VIMEP</author>
+    <author-url>https://www.unad.edu.co/</author-url>
+    <license>Creative Commons by-sa</license>
+    <license-url>http://creativecommons.org/licenses/by-sa/3.0/</license-url>
+    <description>Estilo creado para los contenidos tipo exelearning de la escuela de Ingenieria.</description>
+<extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />
+]]></extra-head><extra-body><![CDATA[<script type="text/javascript" src="_style_js.js"></script>]]></extra-body></theme>
